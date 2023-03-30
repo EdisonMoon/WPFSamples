@@ -1,0 +1,16 @@
+D:\GitHub\WPFSamples\DeepCopy\bin\Debug\net5.0\DeepCopy.exe
+D:\GitHub\WPFSamples\DeepCopy\bin\Debug\net5.0\DeepCopy.deps.json
+D:\GitHub\WPFSamples\DeepCopy\bin\Debug\net5.0\DeepCopy.runtimeconfig.json
+D:\GitHub\WPFSamples\DeepCopy\bin\Debug\net5.0\DeepCopy.runtimeconfig.dev.json
+D:\GitHub\WPFSamples\DeepCopy\bin\Debug\net5.0\DeepCopy.dll
+D:\GitHub\WPFSamples\DeepCopy\bin\Debug\net5.0\DeepCopy.pdb
+D:\GitHub\WPFSamples\DeepCopy\obj\Debug\net5.0\DeepCopy.csproj.AssemblyReference.cache
+D:\GitHub\WPFSamples\DeepCopy\obj\Debug\net5.0\DeepCopy.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\WPFSamples\DeepCopy\obj\Debug\net5.0\DeepCopy.AssemblyInfoInputs.cache
+D:\GitHub\WPFSamples\DeepCopy\obj\Debug\net5.0\DeepCopy.AssemblyInfo.cs
+D:\GitHub\WPFSamples\DeepCopy\obj\Debug\net5.0\DeepCopy.csproj.CoreCompileInputs.cache
+D:\GitHub\WPFSamples\DeepCopy\obj\Debug\net5.0\DeepCopy.dll
+D:\GitHub\WPFSamples\DeepCopy\obj\Debug\net5.0\refint\DeepCopy.dll
+D:\GitHub\WPFSamples\DeepCopy\obj\Debug\net5.0\DeepCopy.pdb
+D:\GitHub\WPFSamples\DeepCopy\obj\Debug\net5.0\DeepCopy.genruntimeconfig.cache
+D:\GitHub\WPFSamples\DeepCopy\obj\Debug\net5.0\ref\DeepCopy.dll

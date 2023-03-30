@@ -1,0 +1,17 @@
+﻿[
+  {
+    "input1": 2,
+    "input2": 3,
+    "expectedResult": 6
+  },
+  {
+    "input1": -4,
+    "input2": 5,
+    "expectedResult": -20
+  },
+  {
+    "input1": 0,
+    "input2": 1,
+    "expectedResult": 0
+  }
+]
